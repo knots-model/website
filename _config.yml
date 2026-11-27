@@ -1,0 +1,5 @@
+title: KNOTS
+description: Knowledge of Novel Operations and Technologies in Shipping
+markdown: kramdown
+exclude:
+  - README.md
